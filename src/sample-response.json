@@ -1,0 +1,1020 @@
+[
+  {
+      "name": null,
+      "serialNumber": "ASDF5ASDF4_1106",
+      "usage": "Continuous use",
+      "temperatureData": [
+          {
+              "dateTime": "2024-11-05T01:32:55Z",
+              "value": 35.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T01:47:55Z",
+              "value": 35.9,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T02:02:55Z",
+              "value": 35.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T02:17:55Z",
+              "value": 36.7,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T02:32:55Z",
+              "value": 38,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T02:47:55Z",
+              "value": 37.9,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T03:02:55Z",
+              "value": 38.5,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T03:17:55Z",
+              "value": 38.5,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T03:32:55Z",
+              "value": 38.8,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T03:47:55Z",
+              "value": 39,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T04:02:55Z",
+              "value": 38.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T04:17:55Z",
+              "value": 39.1,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T04:32:55Z",
+              "value": 38.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T04:47:55Z",
+              "value": 38.9,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T05:02:55Z",
+              "value": 39.1,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T05:17:55Z",
+              "value": 38.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T05:32:55Z",
+              "value": 38.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T05:47:55Z",
+              "value": 38.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T06:02:55Z",
+              "value": 38.5,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T06:17:55Z",
+              "value": 38.5,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T06:32:55Z",
+              "value": 38.5,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T06:47:55Z",
+              "value": 38.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T07:02:55Z",
+              "value": 37.9,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T07:17:55Z",
+              "value": 36.7,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T07:32:55Z",
+              "value": 36.5,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T07:47:55Z",
+              "value": 36.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T08:02:55Z",
+              "value": 36.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T08:17:55Z",
+              "value": 36.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T08:32:55Z",
+              "value": 37.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T08:47:55Z",
+              "value": 38.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T09:02:55Z",
+              "value": 39.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T09:17:55Z",
+              "value": 39.8,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T09:32:55Z",
+              "value": 40.1,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T09:47:55Z",
+              "value": 39,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T10:02:55Z",
+              "value": 38.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T10:17:55Z",
+              "value": 38.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T10:32:55Z",
+              "value": 38.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T10:47:55Z",
+              "value": 38.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T11:02:55Z",
+              "value": 39,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T11:17:55Z",
+              "value": 38.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T11:32:55Z",
+              "value": 38.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T11:47:55Z",
+              "value": 38.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T12:02:55Z",
+              "value": 37.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T12:17:55Z",
+              "value": 37.7,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T12:32:55Z",
+              "value": 37.1,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T12:47:55Z",
+              "value": 36.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T13:02:55Z",
+              "value": 36.1,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T13:17:55Z",
+              "value": 35.8,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T13:32:55Z",
+              "value": 36.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T13:47:55Z",
+              "value": 37,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T14:02:55Z",
+              "value": 37.9,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T14:17:55Z",
+              "value": 38.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T14:32:55Z",
+              "value": 38.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T14:47:55Z",
+              "value": 37.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T15:02:55Z",
+              "value": 36.5,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T15:17:55Z",
+              "value": 36.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T15:32:55Z",
+              "value": 36.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T15:47:55Z",
+              "value": 36.7,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T16:02:55Z",
+              "value": 37,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T16:17:55Z",
+              "value": 36.8,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T16:32:55Z",
+              "value": 36.7,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T16:47:55Z",
+              "value": 36.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T17:02:55Z",
+              "value": 36.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T17:17:55Z",
+              "value": 36.5,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T17:32:55Z",
+              "value": 37.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T17:47:55Z",
+              "value": 38.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T18:02:55Z",
+              "value": 39.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T18:17:55Z",
+              "value": 39.8,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T18:32:55Z",
+              "value": 40,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T18:47:55Z",
+              "value": 40.6,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T19:02:55Z",
+              "value": 40.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T19:17:55Z",
+              "value": 40.1,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T19:32:55Z",
+              "value": 40.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T19:47:55Z",
+              "value": 41,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T20:02:55Z",
+              "value": 40.7,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T20:17:55Z",
+              "value": 40.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T20:32:55Z",
+              "value": 40.4,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T20:47:55Z",
+              "value": 41.2,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T21:02:55Z",
+              "value": 40.7,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T21:17:55Z",
+              "value": 41.3,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T21:32:55Z",
+              "value": 41.5,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T21:47:55Z",
+              "value": 41,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          }
+      ],
+      "simulatedTemperatureData": [],
+      "lightData": [
+          {
+              "dateTime": "2024-11-05T01:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T02:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T02:47:55Z",
+              "value": 2.1484375,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T03:17:55Z",
+              "value": 0.5859375,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T03:47:55Z",
+              "value": 0.5859375,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T04:17:55Z",
+              "value": 0.5859375,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T04:47:55Z",
+              "value": 0.5859375,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T05:17:55Z",
+              "value": 0.48828125,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T05:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T06:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T06:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T07:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T07:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T08:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T08:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T09:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T09:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T10:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T10:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T11:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T11:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T12:17:55Z",
+              "value": 0.48828125,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T12:47:55Z",
+              "value": 0.9765625,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T13:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T13:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T14:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T14:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T15:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T15:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T16:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T16:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T17:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T17:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T18:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T18:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T19:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T19:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T20:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T20:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T21:17:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          },
+          {
+              "dateTime": "2024-11-05T21:47:55Z",
+              "value": 0,
+              "confidence0": 0,
+              "confidence1": 0,
+              "outOfRange": false,
+              "inTripBounds": true
+          }
+      ],
+      "humidityData": [],
+      "co2Data": [],
+      "temperatureProbeData": [],
+      "temperatureHigh": null,
+      "minTemperature": 10,
+      "idealTemperature": 20,
+      "maxTemperature": 30,
+      "minHumidity": null,
+      "idealHumidity": null,
+      "maxHumidity": null,
+      "minLight": null,
+      "idealLight": null,
+      "maxLight": null,
+      "minCO2": null,
+      "idealCO2": null,
+      "maxCO2": null,
+      "minTemperatureProbe": null,
+      "idealTemperatureProbe": null,
+      "maxTemperatureProbe": null,
+      "hasTemperature": true,
+      "hasLight": true,
+      "hasHumidity": true,
+      "hasCO2": false,
+      "hasTemperatureProbe": false
+  }
+]
