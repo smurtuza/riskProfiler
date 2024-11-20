@@ -20,7 +20,7 @@ export function co2Analysis(product, data) {
     const { temperature: { min, max } } = productConfig[product];
 
     const sorted = data.map(record => ({ ...record, time: new Date(record.dateTime).getTime() })).sort((a, b) => a.time - b.time);
-    console.log(JSON.stringify({ msg: "sortedrecord", length: sorted.length, record: sorted[0] }))
+    console.log(JSON.stringify({ msg: "co2 sortedrecord", length: sorted.length, record: sorted[0] }))
 
     sorted.forEach((record) => {
         const { value } = record;
@@ -84,7 +84,7 @@ function aboveMaxValues(data, max) {
         console.log("risenValues updated 2")
         increasedValues = [];
     }
-    console.log(risenValues.length)
+    console.log("co2 rangesabove the", risenValues.length)
     return risenValues;
 }
 

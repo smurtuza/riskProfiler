@@ -11,8 +11,8 @@ export default {
             max: 3
         },
         humidity: {
-            min: 90,
-            max: 95
+            min: 9,
+            max: 9.5
         }
     },
     "banana": {
@@ -25,8 +25,8 @@ export default {
             max: 5
         },
         humidity: {
-            min: 90,
-            max: 95
+            min: 9.0,
+            max: 9.5
         }
     },
     "orange": {
@@ -39,8 +39,8 @@ export default {
             max: 10
         },
         humidity: {
-            min: 85,
-            max: 90
+            min: 8.5,
+            max: 9.0
         }
     }
 }
