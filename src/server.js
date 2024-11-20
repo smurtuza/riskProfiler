@@ -11,8 +11,8 @@ app.get('/report', (req, res, next) => {
   if (error) {
     res.status(400).json({ message });
   }
-  profiler(data.product, data.badSamples)
-  res.json({ message: 'Hello World!', badSamples, product })
+  const riskProfileReport = profiler(data.product, data.badSamples)
+  res.json({ message: 'Success', riskProfileReport })
 })
 
 app.get('/', (req, res) => {
